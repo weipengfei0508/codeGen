@@ -2,7 +2,7 @@ package ${packageName}.${moduleName}.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import ${packageName}.base.CrudService;
+import ${packageName}.core.CrudService;
 import ${packageName}.${moduleName}.entity.${ClassName};
 import ${packageName}.${moduleName}.mapper.${ClassName}Mapper;
 

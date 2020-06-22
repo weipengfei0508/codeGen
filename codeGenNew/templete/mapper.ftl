@@ -1,7 +1,7 @@
 package ${packageName}.${moduleName}.mapper;
 
 import org.apache.ibatis.annotations.Mapper;
-import ${packageName}.base.CrudDao;
+import ${packageName}.core.CrudDao;
 import ${packageName}.${moduleName}.entity.${ClassName};
 
 /**

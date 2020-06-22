@@ -1,7 +1,7 @@
 package ${packageName}.${moduleName}.entity;
 
 import java.util.Date;
-import ${packageName}.base.DataEntity;
+import ${packageName}.core.DataEntity;
 import lombok.Getter;
 import lombok.Setter;
 
